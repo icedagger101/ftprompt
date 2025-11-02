@@ -1,0 +1,17 @@
+[
+  {
+    "name": "My First Project",
+    "absolute_path": "/home/user/projects/myapp",
+    "rules_file_path": "./rules/myapp_rules.json"
+  },
+  {
+    "name": "Data Analysis Tool",
+    "absolute_path": "/opt/tools/data_analyzer",
+    "rules_file_path": "./rules/data_rules.json"
+  },
+  {
+    "name": "Web Scraper",
+    "absolute_path": "/var/www/scraper",
+    "rules_file_path": "./rules/scraper_rules.json"
+  }
+]
